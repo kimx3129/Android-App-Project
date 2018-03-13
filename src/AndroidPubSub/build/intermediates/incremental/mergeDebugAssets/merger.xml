@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="/Users/sungmin/Google Drive/AWS/CarVi 1.5/Android SDK/src/AndroidPubSub/assets"/><source path="/Users/sungmin/Google Drive/AWS/CarVi 1.5/Android SDK/src/AndroidPubSub/build/generated/assets/shaders/debug"/></dataSet><dataSet config="debug"><source path="/Users/sungmin/Google Drive/AWS/CarVi 1.5/Android SDK/src/AndroidPubSub/src/debug/assets"/></dataSet></merger>
